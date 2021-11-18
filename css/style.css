@@ -226,7 +226,7 @@ a:hover, a:focus {
 /*=======================================================
       BTN STYLE
 ========================================================*/
-.btn {
+.form1 btn {
 	border: none;
 	color: rgb(216, 113, 113);
 	display: inline-block;
@@ -242,14 +242,14 @@ a:hover, a:focus {
 	position: relative;
 }
 
-.form input{
-	padding: 5px;
+.form1 input{
+	padding: 20px;
 	width: 500px;
-	margin: 5px;
+	margin: 10px;
 
 	
 }
-.btn:hover {
+.form1 btn:hover {
 	background: rgb(66, 42, 42);
 	color: #1d1313;
 }
